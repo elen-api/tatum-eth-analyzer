@@ -2,7 +2,10 @@
 
 A Node.js application built using the Tatum API that analyzes Ethereum Mainnet wallet activity.
 
-This project demonstrates practical API usage & multi-step data processing
+This project demonstrates practical API usage and multi-step data processing.
+It analyzes Ethereum wallet activity using the Tatum API and transforms raw blockchain data into financial and risk insights.
+
+The application shows how blockchain data can support wallet monitoring, exposure analysis, reporting, and preliminary risk assessment in real-world business scenarios.
 ---
 
 Features: 
